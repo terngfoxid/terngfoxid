@@ -8,6 +8,7 @@
 - [Azur Lane Guide TH](https://al-guide-th.com)
   - Azur Lane Guide for Thai's community.
   - Collaboration project with [Rolizami](https://www.youtube.com/@Rolizami) (Thai's youtube content creator)
+  - Project member (Refactor Programmer): [Methapon2001](https://github.com/Methapon2001)
 - [EZ Uploader](https://ez-upload.al-guide-th.com)
   - Image Hosting for Azur Lane Guide TH and other projects.
   - I limit file size 500kb.
