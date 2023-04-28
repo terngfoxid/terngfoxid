@@ -5,10 +5,10 @@
 - 🤔 Contact( for what? only ): terngfoxid@live.jp
 
 ## My Project
-- [Azur Lane Guide Thai](https://al-guide-th.com)
+- [Azur Lane Guide TH](https://al-guide-th.com)
   - Azur Lane Guide for Thai's community.
 - [EZ Uploader](https://ez-upload.al-guide-th.com)
-  - Image Hosting for Azur Lane Guide Thai and other projects.
+  - Image Hosting for Azur Lane Guide TH and other projects.
 - [Han Ban K4REN V.2](https://han.starchaser.me)
   - Pay sharing system for youtube premium. 
   - My first project in yue.sh , I design and develope Front-end.
