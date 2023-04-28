@@ -12,7 +12,7 @@
 - Web Master: DNS , SEO , cPanel
 - Web Design: Figma
 
-Note: I'm trying to improve graphic design and UX/UI design skill for growing in front-end career
+Note: I'm trying to improve graphic and UX/UI design skill for growing in front-end career
 
 
 ## My Project
