@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello!!! 👋
 
-<!--
-**terngfoxid/terngfoxid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 My name is Napapon Prapin ( terngfoxid , SSTfoxide , SST๛Foxide๛T )
+- 👯 Contact(for work only): Napapon_Prapin@outlook.jp
+- 🤔 Contact(for what? only ): terngfoxid@live.jp
 
-Here are some ideas to get you started:
+## My Skills 🔭
+- Software Coding: C , C# , Java , IoT(Arduino)
+- Web Front-End: Html , React , Next.JS , Solid.JS , Tailwind.CSS
+- Web Back-End: PHP , MySQL , Next.JS
+- Network Config: IPv4 , Routing , Forward Port , DDNS
+- Web Master: DNS , SEO , cPanel
+- Web Design: Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Note: I'm trying to improve graphic design and UX/UI design skill for growing in front-end career
+
+# I copied this from someone I know
+[![% of Coding Language on Github](https://github-readme-stats.vercel.app/api/top-langs/?username=terngfoxid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
