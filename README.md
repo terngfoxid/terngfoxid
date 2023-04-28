@@ -14,5 +14,5 @@
 
 Note: I'm trying to improve graphic design and UX/UI design skill for growing in front-end career
 
-# I copied this from someone I know
+### I copied this from someone I know
 [![Coding Language](https://github-readme-stats.vercel.app/api/top-langs/?username=terngfoxid&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
