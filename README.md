@@ -7,8 +7,10 @@
 ## My Project
 - [Azur Lane Guide TH](https://al-guide-th.com)
   - Azur Lane Guide for Thai's community.
+  - Collaboration project with [Rolizami](https://www.youtube.com/@Rolizami) (Thai's youtube content creator)
 - [EZ Uploader](https://ez-upload.al-guide-th.com)
   - Image Hosting for Azur Lane Guide TH and other projects.
+  - I limit file size 500kb.
 - [Han Ban K4REN V.2](https://han.starchaser.me)
   - Pay sharing system for youtube premium. 
   - My first project in yue.sh , I design and develope Front-end.
