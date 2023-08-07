@@ -20,7 +20,7 @@
 ## My Skills 🔭
 - Software Coding: C , C# , Java , IoT(Arduino)
 - Web Front-End: Html , React , Next.JS , Solid.JS , Tailwind.CSS
-- Web Back-End: PHP , MySQL , Next.JS
+- Web Back-End: Go , PHP , MySQL , MSSQL , Next.JS
 - Network Config: IPv4 , Routing , Forward Port , DDNS
 - Web Master: DNS , SEO , cPanel
 - Web Design: Figma
