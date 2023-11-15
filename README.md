@@ -18,7 +18,7 @@
   - [Figma Design](https://www.figma.com/file/15P86yOQP2d8BCAbaVU91C/hanbanKarenV2?node-id=0-1&t=NqrHdhtotZoHEycx-0)
 
 ## My Skills 🔭
-- Software Coding: C , C# , Java , IoT(Arduino)
+- Software Coding: C , C# , ASP.Net MVC , Java , IoT(Arduino)
 - Web Front-End: Html , React , Next.JS , Solid.JS , Tailwind.CSS
 - Web Back-End: Go , PHP , MySQL , MSSQL , Next.JS
 - Network Config: IPv4 , Routing , Forward Port , DDNS
