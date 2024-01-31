@@ -12,7 +12,7 @@
 - [EZ Uploader](https://ez-upload.al-guide-th.com)
   - Image Hosting for Azur Lane Guide TH and other projects.
   - I limit file size 500kb.
-- [Han Ban K4REN V.2](https://han.starchaser.me)
+- [Han Ban K4REN V.2](https://han.starchaser.me) [Now is V3 not my repo]
   - Pay sharing system for youtube premium. 
   - My first project in yue.sh , I design and develope Front-end.
   - [Figma Design](https://www.figma.com/file/15P86yOQP2d8BCAbaVU91C/hanbanKarenV2?node-id=0-1&t=NqrHdhtotZoHEycx-0)
